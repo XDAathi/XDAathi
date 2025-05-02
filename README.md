@@ -1,11 +1,10 @@
 <!-- prettier-ignore-start -->
-<h1 align="center">Hey there! I'm Aathithya 👋</h1>
+<h1 align="center">Hey there! I'm Aathi 👋</h1>
 <!-- prettier-ignore-end -->
 
 <p align="center">
   <em>
-    Stats &amp; Econ undergrad • Full‑time hackathon junkie • Part‑time lifeguard<br/>
-    Turning ☕ into <code>git push</code> and occasional functional code.
+    Stats &amp; Econ undergrad • <br/>
   </em>
 </p>
 
@@ -20,11 +19,12 @@
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="Swift"  src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&amp;logo=swift&amp;logoColor=white" />
   <img alt="React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
-  <img alt="Java" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&amp;logo=TensorFlow&amp;logoColor=white" />
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&amp;logo=blender&amp;logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
+  
+
 </p>
 
 ## 🎯 Current goals
