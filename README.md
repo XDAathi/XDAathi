@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    Stats &amp; Econ 2nd year undergrad <br/>
+    CS,Stats &amp; Econ 2nd year undergrad <br/>
   </em>
 </p>
 
