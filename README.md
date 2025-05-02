@@ -48,4 +48,4 @@
 
 ## 🤝 Let’s connect
 
-- **LinkedIn:** <[aathithya-ananth](https://www.linkedin.com/in/aathithyaananth/)>
+- **LinkedIn:** <[]([https://www.linkedin.com/in/aathithyaananth/](https://www.linkedin.com/in/aathithyaananth))>
