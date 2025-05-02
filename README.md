@@ -35,8 +35,8 @@
 ## 🌱 Fun facts
 
 - I once lifeguarded at Toronto Pan Am Sports Centre.
-- I like to play badminton
-- I am on a bulk
+- I like to play badminton & swim
+- I use to be able to sub 20 a rubiks cube
 
 ---
 
