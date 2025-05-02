@@ -30,7 +30,7 @@
 ## 🎯 Current goals
 
 - Land my first internship and hopefully where I don't break prod or commit API keys on day 1.
-- Smash more powerful badminton smashes (open to racket suggestions 🏸).
+- Improve by backhand badminton shots (open to racket suggestions 🏸).
 
 ## 🌱 Fun facts
 
@@ -42,7 +42,7 @@
 
 ## 🕸️ Check out my website
 
-> **🌐 https://aathithya.dev**&nbsp;
+> **🌐 https://aathithya.dev**&nbsp; (work in progress)
 
 ---
 
