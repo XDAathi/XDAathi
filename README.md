@@ -12,7 +12,7 @@
 
 ## 🔭 What I’m up to
 
-- Crafting a personal portfolio site from scratch in React/Tailwind because I apparently hate free time.
+- Crafting a personal portfolio site from scratch in React&Tailwind CSS because I apparently hate free time.
 - Working on a Classification model to detect fake news and experimenting with webscraping
 
 ## 🛠️ Tech stack
