@@ -44,7 +44,7 @@
 
 ## 🕸️ Check out my website
 
-> **🌐 https://aathithya.dev**&nbsp; (work in progress)
+> **🌐 [https://aathithya.dev**](https://xdaathi.github.io/Website/)&nbsp;
 
 ---
 
