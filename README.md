@@ -12,8 +12,8 @@
 
 ## 🔭 What I’m up to
 
-- Crafting a personal portfolio site from scratch in React&Tailwind CSS because I apparently hate free time.
 - Working on a Classification model to detect fake news and experimenting with webscraping
+- Preparing for my job search this fall.
 
 ## 🛠️ Tech stack
 
@@ -32,7 +32,7 @@
 ## 🎯 Current goals
 
 - Land my first internship and hopefully where I don't break prod or commit API keys on day 1.
-- Improve by backhand badminton shots (open to racket suggestions 🏸).
+- Improve by backhand badminton shots.
 
 ## 🌱 Fun facts
 
