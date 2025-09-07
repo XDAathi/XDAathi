@@ -44,7 +44,7 @@
 
 ## 🕸️ Check out my website
 
-> **🌐 [aathi.com](https://aathi.com)&nbsp;
+> **🌐 [aathi.ca](https://aathi.ca)&nbsp;
 
 ---
 
