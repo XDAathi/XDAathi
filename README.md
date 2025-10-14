@@ -12,8 +12,8 @@
 
 ## 🔭 What I’m up to
 
-- Working on a Classification model to detect fake news and experimenting with webscraping
-- Preparing for my job search this fall.
+- Re-building my hackathon project from Hack the Valley X
+- Seeking for co-op winter 2026
 
 ## 🛠️ Tech stack
 
