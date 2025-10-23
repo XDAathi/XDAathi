@@ -32,7 +32,7 @@
 ## 🎯 Current goals
 
 - Land my first internship and hopefully where I don't break prod or commit API keys on day 1.
-- Improve by backhand badminton shots.
+- Improve my backhand badminton shots.
 
 ## 🌱 Fun facts
 
