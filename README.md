@@ -4,52 +4,28 @@
 
 <p align="center">
   <em>
-    CS, Stats &amp; Econ 2nd year undergrad <br/>
+    Stats &amp; Econ 2nd year undergrad @ Uoft<br/>
   </em>
 </p>
 
 ---
 
-## 🔭 What I’m up to
+## What I’m up to
 
-- Re-building my hackathon project from Hack the Valley X
-- Seeking for co-op winter 2026
-
-## 🛠️ Tech stack
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&amp;logo=c&amp;logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="JS" src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/>
-  <img alt="Swift"  src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&amp;logo=swift&amp;logoColor=white" />
-  <img alt="React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
-  <img alt="Tailwind"  src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
-  
+- Seeking for co-op summer/fall 2026
 
 </p>
 
-## 🎯 Current goals
+## Current goals
 
-- Land my first internship and hopefully where I don't break prod or commit API keys on day 1.
-- 150 bench press
+- Land my first internship and hopefully where I don't break prod or commit API keys on day 1
+- ~~135~~ 150 bench press
+- Learn Piano
 
-## 🌱 Fun facts
 
-- I once lifeguarded at Toronto Pan Am Sports Centre.
-- I like to play badminton & swim
-- I use to be able to sub 20 a rubiks cube
+## Socials
 
----
-
-## 🕸️ Check out my website
-
-> **🌐 [aathi.ca](https://aathi.ca)&nbsp;
-
----
-
-## 🤝 Let’s connect
-
+- **[aathi.ca](https://aathi.ca)&nbsp;
 - **LinkedIn:** <https://www.linkedin.com/in/aathithya-ananth/>
 
 ![XDAathi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=XDAathi&theme=tokyonight&hide_border=true)
