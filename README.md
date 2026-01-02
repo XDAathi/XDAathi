@@ -26,6 +26,6 @@
 ## Socials
 
 - [aathi.ca](https://aathi.ca)&nbsp;
-- **LinkedIn:** <https://www.linkedin.com/in/aathithya-ananth/>
+- <https://www.linkedin.com/in/aathithya-ananth/>
 
 ![XDAathi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=XDAathi&theme=tokyonight&hide_border=true)
