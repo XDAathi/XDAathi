@@ -18,7 +18,7 @@
 
 ## Current goals
 
-- ~~Land my first internship and hopefully where I don't break prod or commit API keys on day 1~~ Land my 2nd internship!
+- ~~Land my first internship and hopefully where I don't break prod or commit API keys on day 1~~ ~~Land my 2nd internship~~ 3rd👀?
 - ~~135~~ ~~155~~ 185 bench press
 - Learn Piano
 
