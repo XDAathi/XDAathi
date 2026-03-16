@@ -28,7 +28,6 @@
 - [aathi.ca](https://aathi.ca)&nbsp;
 - <https://www.linkedin.com/in/aathithya-ananth/>
 
-![](https://github-readme-stats.vercel.app/api?username=XDAathi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=XDAathi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=XDAathi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
