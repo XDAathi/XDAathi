@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    Stats &amp; Econ 2nd year undergrad @ Uoft<br/>
+    Stats &amp; Econ 2nd year undergrad @ UofT | Data Analytics & AI Intern @OCNI | Incoming Data Analyst @RBC<br/>
   </em>
 </p>
 
