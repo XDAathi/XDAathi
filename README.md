@@ -4,7 +4,7 @@
 
 <p align="center">
   <em>
-    Stats &amp; Econ 2nd year undergrad @ UofT | Data Analytics & AI Intern @OCNI | Incoming Data Analyst @RBC<br/>
+    Stats &amp; Econ, CS @ UofT | Current Data Eng + Innovation @RBC | Prev Data & AI @OCNI <br/>
   </em>
 </p>
 
@@ -12,16 +12,11 @@
 
 ## What I’m up to
 
-- Seeking for co-op summer/fall 2026
+- Seeking for co-op summer 2027
+- Graduate sometime
+- Travel and Explore :)
 
 </p>
-
-## Current goals
-
-- ~~Land my first internship and hopefully where I don't break prod or commit API keys on day 1~~ ~~Land my 2nd internship~~ 3rd👀?
-- ~~135~~ ~~155~~ 185 bench press
-- Learn Piano
-
 
 ## Socials
 
