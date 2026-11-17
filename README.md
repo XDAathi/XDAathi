@@ -12,7 +12,7 @@
 
 ## What I’m up to
 
-- Seeking for co-op summer 2027
+- Open to 2027 oppurtunities
 - Graduate sometime
 - Travel and Explore :)
 
